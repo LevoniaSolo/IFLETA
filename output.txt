@@ -1,0 +1,12 @@
+Vector 1 created.
+Vector 2 created.
+Elements set to Vector 1.
+Elements set to Vector 2.
+Vectors added successfully.
+(5.700000; 6.200000; 17.800000)
+Scalar product was made successfully.
+94.920000l
+Vector product was made successfully.
+(-24.920000; -4.450000; 9.530000)
+Vector 1 deleted.
+Vector 2 deleted.
